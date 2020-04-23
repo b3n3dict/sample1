@@ -1,0 +1,19 @@
+{
+  "name": "sample1",
+  "version": "1.0.0",
+  "description": "how are you",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3n3dict/sample1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b3n3dict/sample1/issues"
+  },
+  "homepage": "https://github.com/b3n3dict/sample1#readme"
+}
